@@ -1,3 +1,9 @@
+document.getElementById("demo").addEventListener("click",
+
+function botoncito(){
+    alert("Hola Mundo!");
+});
+
 function carga(){
 	alert("La página está completamente cargada!");
 }
